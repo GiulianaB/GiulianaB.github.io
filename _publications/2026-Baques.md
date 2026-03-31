@@ -17,4 +17,4 @@ Antarctic Intermediate Water (AAIW) contributes to the northward flow required t
   <img src="{{ site.baseurl }}/images/Baques2026.jpg" alt="Baques 2026" width="70%">
 </p>
 
-**Full text:** [View paper at Progress in Oceanography]([https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.12413](https://www.sciencedirect.com/science/article/pii/S0079661126000601))
+**Full text:** [View paper at Progress in Oceanography](https://doi.org/10.1016/j.pocean.2026.103726)
