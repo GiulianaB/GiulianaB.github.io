@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2026-Baques
 date: 2026-03-21
 venue: 'Progress in Oceanography'
-excerpt: 'https://www.sciencedirect.com/science/article/pii/S0079661126000601?dgcid=coauthor#f0025'
+excerpt: ''
 citation: 'Michèle Baqués, Giuliana Berden, Marcela Charo, Paola M. Dávila, Alberto R. Piola, Northward intermittent pulses of Antarctic Intermediate Water beyond the Brazil/Malvinas Confluence, Progress in Oceanography, Volume 244, 2026, 103726, ISSN 0079-6611, https://doi.org/10.1016/j.pocean.2026.103726.'
 --- 
 
